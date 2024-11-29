@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Pacifico&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Righteous&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+body {
+    background-color: #24353f;
+    height: 75vh;
+    font-family: "Titillium Web", sans-serif;
+}
+
+ul {
+    margin-left: auto;
+}
+
+.my-nav {
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+.logo {
+    font-size: 1.3125rem !important;
+ }
+
+ .nav-link {
+    border: 1px solid transparent;
+    border-color: #ffc107 !important;
+ }
+
+ h1 {
+    color: #17a2b8;
+    font-size: 2.5rem;
+
+ }
+
+ .box {
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1)
+ }
+
+ .my-container {
+    height: 100% !important;
+ }
+ 
+
